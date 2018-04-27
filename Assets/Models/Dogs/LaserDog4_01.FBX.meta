@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 1deabcb0fa17def4e844ccfc0418a701
+timeCreated: 1511657071
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Capsule002
+    100002: Capsule003
+    100004: Cylinder001
+    100006: Cylinder002
+    100008: //RootNode
+    100010: Object001
+    100012: Object002
+    100014: Plane001
+    100016: Plane002
+    100018: Sphere009
+    100020: Sphere014
+    100022: Sphere015
+    100024: Sphere016
+    100026: Sphere017
+    100028: Sphere018
+    100030: Sphere019
+    100032: Sphere020
+    100034: Sphere021
+    100036: Sphere022
+    100038: Sphere023
+    100040: Sphere024
+    100042: Sphere026
+    100044: Sphere027
+    100046: Sphere028
+    100048: Sphere029
+    100050: Sphere030
+    100052: Body
+    100054: Ear_L
+    100056: Ear_R
+    100058: Eye_L
+    100060: Eye_R
+    100062: Hat
+    100064: Hat Full
+    100066: Mustache
+    100068: Muzzle
+    100070: Nose
+    100072: Paw_BackL
+    100074: Paw_BackR
+    100076: Paw_FrontL
+    100078: Paw_FrontR
+    100080: Sombrero Balls
+    100082: Tail
+    400000: Capsule002
+    400002: Capsule003
+    400004: Cylinder001
+    400006: Cylinder002
+    400008: //RootNode
+    400010: Object001
+    400012: Object002
+    400014: Plane001
+    400016: Plane002
+    400018: Sphere009
+    400020: Sphere014
+    400022: Sphere015
+    400024: Sphere016
+    400026: Sphere017
+    400028: Sphere018
+    400030: Sphere019
+    400032: Sphere020
+    400034: Sphere021
+    400036: Sphere022
+    400038: Sphere023
+    400040: Sphere024
+    400042: Sphere026
+    400044: Sphere027
+    400046: Sphere028
+    400048: Sphere029
+    400050: Sphere030
+    400052: Body
+    400054: Ear_L
+    400056: Ear_R
+    400058: Eye_L
+    400060: Eye_R
+    400062: Hat
+    400064: Hat Full
+    400066: Mustache
+    400068: Muzzle
+    400070: Nose
+    400072: Paw_BackL
+    400074: Paw_BackR
+    400076: Paw_FrontL
+    400078: Paw_FrontR
+    400080: Sombrero Balls
+    400082: Tail
+    2300000: Capsule002
+    2300002: Capsule003
+    2300004: Cylinder001
+    2300006: Cylinder002
+    2300008: Object001
+    2300010: Object002
+    2300012: Plane001
+    2300014: Plane002
+    2300016: Sphere009
+    2300018: Sphere014
+    2300020: Sphere015
+    2300022: Sphere016
+    2300024: Sphere017
+    2300026: Sphere018
+    2300028: Sphere019
+    2300030: Sphere020
+    2300032: Sphere021
+    2300034: Sphere022
+    2300036: Sphere023
+    2300038: Sphere024
+    2300040: Sphere026
+    2300042: Sphere027
+    2300044: Sphere028
+    2300046: Sphere029
+    2300048: Sphere030
+    2300050: Body
+    2300052: Ear_L
+    2300054: Ear_R
+    2300056: Eye_L
+    2300058: Eye_R
+    2300060: Muzzle
+    2300062: Nose
+    2300064: Paw_BackL
+    2300066: Paw_BackR
+    2300068: Paw_FrontL
+    2300070: Paw_FrontR
+    2300072: Tail
+    3300000: Capsule002
+    3300002: Capsule003
+    3300004: Cylinder001
+    3300006: Cylinder002
+    3300008: Object001
+    3300010: Object002
+    3300012: Plane001
+    3300014: Plane002
+    3300016: Sphere009
+    3300018: Sphere014
+    3300020: Sphere015
+    3300022: Sphere016
+    3300024: Sphere017
+    3300026: Sphere018
+    3300028: Sphere019
+    3300030: Sphere020
+    3300032: Sphere021
+    3300034: Sphere022
+    3300036: Sphere023
+    3300038: Sphere024
+    3300040: Sphere026
+    3300042: Sphere027
+    3300044: Sphere028
+    3300046: Sphere029
+    3300048: Sphere030
+    3300050: Body
+    3300052: Ear_L
+    3300054: Ear_R
+    3300056: Eye_L
+    3300058: Eye_R
+    3300060: Muzzle
+    3300062: Nose
+    3300064: Paw_BackL
+    3300066: Paw_BackR
+    3300068: Paw_FrontL
+    3300070: Paw_FrontR
+    3300072: Tail
+    4300000: Capsule002
+    4300002: Capsule003
+    4300004: Cylinder001
+    4300006: Cylinder002
+    4300008: Object001
+    4300010: Object002
+    4300012: Plane001
+    4300014: Plane002
+    4300016: Sphere009
+    4300018: Sphere014
+    4300020: Sphere015
+    4300022: Sphere016
+    4300024: Sphere017
+    4300026: Sphere018
+    4300028: Sphere019
+    4300030: Sphere020
+    4300032: Sphere021
+    4300034: Sphere022
+    4300036: Sphere023
+    4300038: Sphere024
+    4300040: Sphere026
+    4300042: Sphere027
+    4300044: Sphere028
+    4300046: Sphere029
+    4300048: Sphere030
+    4300050: Body
+    4300052: Muzzle
+    4300054: Tail
+    4300056: Eye_L
+    4300058: Eye_R
+    4300060: Nose
+    4300062: Paw_FrontL
+    4300064: Paw_FrontR
+    4300066: Paw_BackL
+    4300068: Paw_BackR
+    4300070: Ear_L
+    4300072: Ear_R
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

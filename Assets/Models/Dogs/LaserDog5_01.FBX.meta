@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: b7b7110e78de5304898761e6dd6a3019
+timeCreated: 1511657072
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Capsule002
+    100012: Capsule003
+    100014: Capsule010
+    100016: Capsule011
+    100018: Capsule012
+    100020: Cylinder008
+    100022: Cylinder010
+    100024: Cylinder011
+    100026: //RootNode
+    100028: Object001
+    100030: Object002
+    100032: Object003
+    100034: Plane001
+    100036: Plane002
+    100038: Plane003
+    100040: Plane004
+    100042: Plane005
+    100044: Plane006
+    100046: Sphere009
+    100048: Sphere014
+    100050: Sphere015
+    100052: Sphere016
+    100054: Sphere017
+    100056: Sphere018
+    100058: Torus001
+    100060: Barrel
+    100062: Barrel Full
+    100064: BarrelMetal1
+    100066: BarrelMetal2
+    100068: Belly White
+    100070: Body
+    100072: BrownSpot_L
+    100074: BrownSpot_R
+    100076: Ear_L
+    100078: Ear_R
+    100080: EyeBlack_L
+    100082: EyeBlack_R
+    100084: EyeWhite_L
+    100086: EyeWhite_R
+    100088: Muzzle
+    100090: Nose
+    100092: Paw_BackL
+    100094: Paw_BackR
+    100096: Paw_FrontL
+    100098: Paw_FrontR
+    100100: Sled
+    100102: Sled Metal_L
+    100104: Sled Metal_R
+    100106: tail
+    100108: White Face Spot
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Capsule002
+    400012: Capsule003
+    400014: Capsule010
+    400016: Capsule011
+    400018: Capsule012
+    400020: Cylinder008
+    400022: Cylinder010
+    400024: Cylinder011
+    400026: //RootNode
+    400028: Object001
+    400030: Object002
+    400032: Object003
+    400034: Plane001
+    400036: Plane002
+    400038: Plane003
+    400040: Plane004
+    400042: Plane005
+    400044: Plane006
+    400046: Sphere009
+    400048: Sphere014
+    400050: Sphere015
+    400052: Sphere016
+    400054: Sphere017
+    400056: Sphere018
+    400058: Torus001
+    400060: Barrel
+    400062: Barrel Full
+    400064: BarrelMetal1
+    400066: BarrelMetal2
+    400068: Belly White
+    400070: Body
+    400072: BrownSpot_L
+    400074: BrownSpot_R
+    400076: Ear_L
+    400078: Ear_R
+    400080: EyeBlack_L
+    400082: EyeBlack_R
+    400084: EyeWhite_L
+    400086: EyeWhite_R
+    400088: Muzzle
+    400090: Nose
+    400092: Paw_BackL
+    400094: Paw_BackR
+    400096: Paw_FrontL
+    400098: Paw_FrontR
+    400100: Sled
+    400102: Sled Metal_L
+    400104: Sled Metal_R
+    400106: tail
+    400108: White Face Spot
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Capsule002
+    2300012: Capsule003
+    2300014: Capsule010
+    2300016: Capsule011
+    2300018: Capsule012
+    2300020: Cylinder008
+    2300022: Cylinder010
+    2300024: Cylinder011
+    2300026: Object001
+    2300028: Object002
+    2300030: Object003
+    2300032: Plane001
+    2300034: Plane002
+    2300036: Plane003
+    2300038: Plane004
+    2300040: Plane005
+    2300042: Plane006
+    2300044: Sphere009
+    2300046: Sphere014
+    2300048: Sphere015
+    2300050: Sphere016
+    2300052: Sphere017
+    2300054: Sphere018
+    2300056: Torus001
+    2300058: Barrel
+    2300060: BarrelMetal1
+    2300062: BarrelMetal2
+    2300064: Belly White
+    2300066: Body
+    2300068: BrownSpot_L
+    2300070: BrownSpot_R
+    2300072: Ear_L
+    2300074: Ear_R
+    2300076: EyeBlack_L
+    2300078: EyeBlack_R
+    2300080: EyeWhite_L
+    2300082: EyeWhite_R
+    2300084: Muzzle
+    2300086: Nose
+    2300088: Paw_BackL
+    2300090: Paw_BackR
+    2300092: Paw_FrontL
+    2300094: Paw_FrontR
+    2300096: Sled Metal_L
+    2300098: Sled Metal_R
+    2300100: White Face Spot
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Capsule002
+    3300012: Capsule003
+    3300014: Capsule010
+    3300016: Capsule011
+    3300018: Capsule012
+    3300020: Cylinder008
+    3300022: Cylinder010
+    3300024: Cylinder011
+    3300026: Object001
+    3300028: Object002
+    3300030: Object003
+    3300032: Plane001
+    3300034: Plane002
+    3300036: Plane003
+    3300038: Plane004
+    3300040: Plane005
+    3300042: Plane006
+    3300044: Sphere009
+    3300046: Sphere014
+    3300048: Sphere015
+    3300050: Sphere016
+    3300052: Sphere017
+    3300054: Sphere018
+    3300056: Torus001
+    3300058: Barrel
+    3300060: BarrelMetal1
+    3300062: BarrelMetal2
+    3300064: Belly White
+    3300066: Body
+    3300068: BrownSpot_L
+    3300070: BrownSpot_R
+    3300072: Ear_L
+    3300074: Ear_R
+    3300076: EyeBlack_L
+    3300078: EyeBlack_R
+    3300080: EyeWhite_L
+    3300082: EyeWhite_R
+    3300084: Muzzle
+    3300086: Nose
+    3300088: Paw_BackL
+    3300090: Paw_BackR
+    3300092: Paw_FrontL
+    3300094: Paw_FrontR
+    3300096: Sled Metal_L
+    3300098: Sled Metal_R
+    3300100: White Face Spot
+    4300000: Box001
+    4300002: Box002
+    4300004: Box003
+    4300006: Box004
+    4300008: Box005
+    4300010: Capsule002
+    4300012: Capsule003
+    4300014: Capsule010
+    4300016: Capsule011
+    4300018: Capsule012
+    4300020: Cylinder008
+    4300022: Cylinder010
+    4300024: Cylinder011
+    4300026: Object001
+    4300028: Object002
+    4300030: Object003
+    4300032: Plane001
+    4300034: Plane002
+    4300036: Plane003
+    4300038: Plane004
+    4300040: Plane005
+    4300042: Plane006
+    4300044: Sphere009
+    4300046: Sphere014
+    4300048: Sphere015
+    4300050: Sphere016
+    4300052: Sphere017
+    4300054: Sphere018
+    4300056: Torus001
+    4300058: BrownSpot_L
+    4300060: BrownSpot_R
+    4300062: Ear_L
+    4300064: Ear_R
+    4300066: EyeBlack_L
+    4300068: EyeBlack_R
+    4300070: EyeWhite_L
+    4300072: EyeWhite_R
+    4300074: Muzzle
+    4300076: Nose
+    4300078: Paw_BackL
+    4300080: Paw_BackR
+    4300082: Paw_FrontL
+    4300084: Paw_FrontR
+    4300086: Sled Metal_L
+    4300088: Sled Metal_R
+    4300090: White Face Spot
+    4300092: Barrel
+    4300094: BarrelMetal2
+    4300096: BarrelMetal1
+    4300098: Belly White
+    4300100: Body
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

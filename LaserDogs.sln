@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserDogs.CSharp", "LaserDogs.CSharp.csproj", "{CCA46324-7051-A66C-7230-A2DCB1987E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserDogs.CSharp.Plugins", "LaserDogs.CSharp.Plugins.csproj", "{E99D50CD-CED4-C3A8-E189-E13E115BF610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserDogs.CSharp.Editor.Plugins", "LaserDogs.CSharp.Editor.Plugins.csproj", "{3E314D8B-4220-F375-386A-2885C5E283D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA46324-7051-A66C-7230-A2DCB1987E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA46324-7051-A66C-7230-A2DCB1987E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA46324-7051-A66C-7230-A2DCB1987E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA46324-7051-A66C-7230-A2DCB1987E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99D50CD-CED4-C3A8-E189-E13E115BF610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99D50CD-CED4-C3A8-E189-E13E115BF610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99D50CD-CED4-C3A8-E189-E13E115BF610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99D50CD-CED4-C3A8-E189-E13E115BF610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E314D8B-4220-F375-386A-2885C5E283D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E314D8B-4220-F375-386A-2885C5E283D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E314D8B-4220-F375-386A-2885C5E283D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E314D8B-4220-F375-386A-2885C5E283D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
